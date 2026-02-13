@@ -6,7 +6,7 @@ I recommend downloading the files from [Releases](https://github.com/JumpStone/m
 
 ### Years
 
-- [2025](https://www.google.com/search?q=2025/README.md)
+- [2025](2025/README.md)
 
 Want to create your own GitHub Skyline? Check out the [GitHub Skyline Generator](https://skyline.github.com/).
 
